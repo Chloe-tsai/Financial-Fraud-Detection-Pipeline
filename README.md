@@ -79,7 +79,7 @@
 ## 🗺️ 專案時程規劃
 
 <p align="center">
-  <img src="images/timeline.png" width="900"/>
+  <img src="時程規畫表.png" width="900"/>
 </p>
 
 📌 本專案依據 ETL 流程分階段完成，涵蓋資料收集、轉換、建模與視覺化。
