@@ -64,18 +64,6 @@
 
 ---
 
-### ⚙️ 技術棧（Tech Stack）
-
-| 層級 | 工具 | 說明 |
-|------|------|------|
-| 語言 | Python | 爬蟲與計算 |
-| 調度 | Airflow | 任務管理 |
-| DB | PostgreSQL | 財報資料 |
-| 轉換 | dbt | SQL管理🔥 |
-| 視覺化 | Grafana | Dashboard |
-
----
-
 ## 🗺️ 專案時程規劃
 
 <p align="center">
